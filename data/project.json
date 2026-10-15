@@ -26,18 +26,8 @@
     "auto_populate_home_page": true,
     "additional_users": [
       {
-        "login_name": "RyFlo21",
-        "avatar_url": "https://avatars.githubusercontent.com/u/320564835?v=4",
-        "admin": false
-      },
-      {
-        "login_name": "sanjeon04",
-        "avatar_url": "https://avatars.githubusercontent.com/u/342269588?v=4",
-        "admin": false
-      },
-      {
-        "login_name": "katehooton-creator",
-        "avatar_url": "https://avatars.githubusercontent.com/u/342304552?v=4",
+        "login_name": "ZoeGes",
+        "avatar_url": "https://avatars.githubusercontent.com/u/320423987?v=4",
         "admin": false
       }
     ],
@@ -285,7 +275,7 @@
       ]
     },
     "created_at": "2026-10-15T00:04:46.400Z",
-    "updated_at": "2026-10-15T00:07:27.739Z",
+    "updated_at": "2026-10-15T00:07:49.231Z",
     "generate_pages_site": true
   },
   "annotations": {},
