@@ -1,0 +1,28 @@
+{
+  "audiovisual_files": {
+    "e28a0865-c00b-448f-baed-c236ba02692d": {
+      "label": "What Happens To Your Brain When You Mindlessly Scroll",
+      "is_offline": false,
+      "file_type": "Video",
+      "file_url": "https://youtu.be/aNvvOQMx0jY?si=GwMabiORk3l-wRF1 ",
+      "duration": 563
+    }
+  },
+  "auto_generate_web_page": true,
+  "citation": "2022",
+  "label": "What Happens To Your Brain When You Mindlessly Scroll",
+  "description": [
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "Video showing the affects phones have and the benefits of reducing screen time"
+        }
+      ]
+    }
+  ],
+  "created_at": "2026-10-15T00:18:59.011Z",
+  "created_by": "BiancaR132",
+  "updated_at": "2026-10-15T00:18:59.011Z",
+  "updated_by": "BiancaR132"
+}
