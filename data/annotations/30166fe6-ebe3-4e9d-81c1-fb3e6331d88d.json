@@ -1,5 +1,342 @@
 {
-  "annotations": [],
+  "annotations": [
+    {
+      "start_time": 0,
+      "end_time": 0,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "The video begins by highlighting how often people use their phones, using the statistic that the average American touches their phone 2600 times per day. This constant scrolling alters your brain. "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Introduction",
+          "category": "Background"
+        }
+      ],
+      "uuid": "c6a6dcb2-d0ea-4141-af2e-830edcccb62b"
+    },
+    {
+      "start_time": 0,
+      "end_time": 0,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "The video explains that after 12 hours of not being on your phone you start to feel anxious and the stress hormone cortisol is released. "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Digital Detox"
+        }
+      ],
+      "uuid": "15e02c85-55fe-4ed2-acdd-ad3eaafa3c7e"
+    },
+    {
+      "start_time": 0,
+      "end_time": 0,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "The video explains that the anxiety is due to how your phone changes the three neural pathways: mesocortical: cognition, memory, attention, emotional behaviour and learningNigrostriatal: movement and sensory stimuli, Mesolimbic: pleasure and reward seeking behaviours, addiction, emotion and perception"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Neuroscience"
+        }
+      ],
+      "uuid": "3dc627be-ae4d-41f4-b5b1-b90919ffff0a"
+    },
+    {
+      "start_time": 0,
+      "end_time": 0,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Your phone’s notifications all act as rewards to your brain and physically change how these pathways work. In the new absence of your phone, cortisol is released because when you’re endlessly scrolling or using social media, the positive social interactions reward the brain and cause constant firing. This causes a release of dopamine along these pathways in response to your phone’s constant stimulus. Every notification or text message from a friend acts as a mini reward that you now associate with picking up your phone. And these little associations become stronger in your brain until you are constantly picking up your phone."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Neuroscience"
+        }
+      ],
+      "uuid": "e23a99f9-44d6-4af4-9e2a-93037c77c7d2"
+    },
+    {
+      "start_time": 96,
+      "end_time": 106,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "After 12 hours of quitting you are no longer checking your phone. This lack of stimulus that you are used to in your brain causes a stress response and you start to feel anxious."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Phsychological Affects Of Phones"
+        }
+      ],
+      "uuid": "0a2ee1e3-082c-4b2c-8db4-ce6c17ab20d8"
+    },
+    {
+      "start_time": 106,
+      "end_time": 127,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "After 24 hours of quitting, one survey found that people began to experience FOMO: fear of missing out. This led to increased heart rate, increased blood pressure and more anxiety. Other people had increased anxiety but they couldn’t explain why. It wasn’t just from FOMO."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Phsychological Affects Of Phones"
+        }
+      ],
+      "uuid": "7d896d26-d24c-4de2-b334-bf8126d2b20b"
+    },
+    {
+      "start_time": 127,
+      "end_time": 170,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "It is likely due to the fact that the tech companies have hijacked our brains using the reward prediction error encoding of our brains. Tech companies have studied these neuronal concepts in order to keep you using their products. The dopamine activity reward chart shows that you learn behaviours when you get a reward without a cue. You keep behaviours when you anticipate a reward and you get the reward. You change a behaviour when you anticipate a reward but don’t get it."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Phsychological Affects Of Phones"
+        }
+      ],
+      "uuid": "422d026d-aaf0-4719-ad62-84a26db24daa"
+    },
+    {
+      "start_time": 170,
+      "end_time": 203,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "We can’t predict what will happen when we check out phones and with notifications we are usually rewarded for checking our phone. This makes us learn to constantly check our phones. When you quit your phone the stimulus is removed and that leads to increased anxiety."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Phsychological Affects Of Phones"
+        }
+      ],
+      "uuid": "a3905ce2-ee93-43b7-b655-cd4d9ea322d9"
+    },
+    {
+      "start_time": 203,
+      "end_time": 264,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Day 3 of quitting is when people feel the phantom vibration of their phone. Good things start to happen because now you are actually paying attention to people in real life. Your relationships will start improving."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Social Connection"
+        }
+      ],
+      "uuid": "3ae1061e-00e9-4b2b-abf1-728e8c58464d"
+    },
+    {
+      "start_time": 264,
+      "end_time": 270,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "After day 5 your attention span will increase and you will do better at work and school."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Cognitive Benefits"
+        }
+      ],
+      "uuid": "dc4f925c-fc31-4d91-ad34-f87336dccb05"
+    },
+    {
+      "start_time": 270,
+      "end_time": 280,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "A study of college students who actively use their phones found they now focus on subject objects for only 65 seconds."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Cognitive Benefits"
+        }
+      ],
+      "uuid": "5692dfeb-b502-4ef5-8e24-a6e59401b605"
+    },
+    {
+      "start_time": 280,
+      "end_time": 285,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Another study of office workers who use their phones at work found they can only focus for 3 minutes at a time."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Cognitive Benefits"
+        }
+      ],
+      "uuid": "0006ddde-559a-446c-9fba-5fc47481f7a8"
+    },
+    {
+      "start_time": 285,
+      "end_time": 335,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "A study took 136 students and got them to do a test. Some of them had their phones switched off and the others had their phones on and got a lot of texts. The students with phones performed on average 20 percent worse than the students without phones. This is because your brain can only produce one or two thoughts at a time. When you quit your phone you are switching tasks less often and so your attention"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Cognitive Benefits"
+        }
+      ],
+      "uuid": "424b2a91-77fd-4d9c-ab99-c2cac83b50ab"
+    },
+    {
+      "start_time": 335,
+      "end_time": 391,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "The video uses a study with 660 people to show the analytical cognitive styles of the participants. The video explains how people's sleep improved when they didn't have their phones or did not go on them before sleeping. "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Cognitive Benefits"
+        }
+      ],
+      "uuid": "d62b2f6f-8425-49c9-879c-661c306cd26c"
+    },
+    {
+      "start_time": 391,
+      "end_time": 463,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "The video ends with information about how phone use has been shown to be connected to depression and other physical affects studies have found from phone use. This includes neck pain. This shows that after two weeks with no phone, your body has noticable benefits as well as your brain. "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Digital Detox"
+        }
+      ],
+      "uuid": "551d6621-2d51-4d81-aaba-e51efc30f0ed"
+    },
+    {
+      "start_time": 463,
+      "end_time": 563,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "The video is sponsored by Fabulous which is an app to help break phone addiction. The inclusion of apps with routines to be more productive and spend less time scrolling on the phone helps people find a solution to their phone addiction. It doesn't mean getting rid of the phone altogether neccassarily but just taking breaks and managing screen time."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Habit Management"
+        }
+      ],
+      "uuid": "c8b7d7e1-cdbd-4dbe-b509-93f6c79380f3"
+    }
+  ],
   "set": "Default",
   "event_id": "b4a45c7a-6be4-4baf-9614-011021aaba21",
   "source_id": "e28a0865-c00b-448f-baed-c236ba02692d"
