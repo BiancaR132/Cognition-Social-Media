@@ -26,11 +26,250 @@
     "auto_populate_home_page": true,
     "additional_users": [],
     "tags": {
-      "tagGroups": [],
-      "tags": []
+      "tagGroups": [
+        {
+          "category": "Background",
+          "color": "#ADFFD9"
+        },
+        {
+          "category": "Social Media Impact",
+          "color": "#ADFEFF"
+        },
+        {
+          "category": "Strategies",
+          "color": "#99E6FF"
+        },
+        {
+          "category": "Credits",
+          "color": "#88C9F2"
+        },
+        {
+          "category": "Study",
+          "color": "#99AFF2"
+        },
+        {
+          "category": "Overview",
+          "color": "#B3B3E6"
+        },
+        {
+          "category": "Titles",
+          "color": "#C195DB"
+        },
+        {
+          "category": "Cognitive Load Analysis",
+          "color": "#DA9ECF"
+        },
+        {
+          "category": "Memory Mechanisms",
+          "color": "#F2A7C3"
+        },
+        {
+          "category": "Comparative Analysis",
+          "color": "#DC8F8D"
+        },
+        {
+          "category": "Common Concepts",
+          "color": "#FF9A6F"
+        },
+        {
+          "category": "Introduction",
+          "color": "#FCB55F"
+        },
+        {
+          "category": "Digital Detox",
+          "color": "#F7ED78"
+        },
+        {
+          "category": "Neuroscience",
+          "color": "#CBE364"
+        },
+        {
+          "category": "Phsychological Affects Of Phones",
+          "color": "#A9D69A"
+        },
+        {
+          "category": "Social Connection"
+        },
+        {
+          "category": "Cognitive Benefits"
+        },
+        {
+          "category": "Habit Management"
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Introduction",
+          "category": "Background"
+        },
+        {
+          "tag": "Comparison",
+          "category": "Social Media Impact"
+        },
+        {
+          "tag": "Anxiety trigger",
+          "category": "Social Media Impact"
+        },
+        {
+          "tag": "Anxiety reduction",
+          "category": "Strategies"
+        },
+        {
+          "tag": "Juxtaposition",
+          "category": "Social Media Impact"
+        },
+        {
+          "tag": "Addiction",
+          "category": "Social Media Impact"
+        },
+        {
+          "tag": "Strategies for anxiety reduction",
+          "category": "Strategies"
+        },
+        {
+          "tag": "Identifying signs",
+          "category": "Strategies"
+        },
+        {
+          "tag": "Credit",
+          "category": "Credits"
+        },
+        {
+          "tag": "Cause",
+          "category": "Study"
+        },
+        {
+          "tag": "Effects",
+          "category": "Study"
+        },
+        {
+          "tag": "Results",
+          "category": "Study"
+        },
+        {
+          "tag": "Research",
+          "category": "Study"
+        },
+        {
+          "tag": "Conclusion",
+          "category": "Overview"
+        },
+        {
+          "tag": "Title",
+          "category": "Titles"
+        },
+        {
+          "tag": "Module Intro",
+          "category": "Overview"
+        },
+        {
+          "tag": "Fast Pacing / Sensory Overload",
+          "category": "Cognitive Load Analysis"
+        },
+        {
+          "tag": "Information Overload",
+          "category": "Cognitive Load Analysis"
+        },
+        {
+          "tag": "Context Switching",
+          "category": "Cognitive Load Analysis"
+        },
+        {
+          "tag": "Slow Pacing / Low Stimulus",
+          "category": "Cognitive Load Analysis"
+        },
+        {
+          "tag": "Transactive Memory",
+          "category": "Memory Mechanisms"
+        },
+        {
+          "tag": "Cognitive Consolidation",
+          "category": "Memory Mechanisms"
+        },
+        {
+          "tag": "Comparative Analysis",
+          "category": "Comparative Analysis"
+        },
+        {
+          "tag": "Conclusion",
+          "category": "Overview"
+        },
+        {
+          "tag": "Statistics",
+          "category": "Common Concepts"
+        },
+        {
+          "tag": "Adolescent",
+          "category": "Common Concepts"
+        },
+        {
+          "tag": "Problematic Social Media Use",
+          "category": "Common Concepts"
+        },
+        {
+          "tag": "Biology",
+          "category": "Common Concepts"
+        },
+        {
+          "tag": "Studies",
+          "category": "Titles"
+        },
+        {
+          "tag": "Term Descriptions",
+          "category": "Titles"
+        },
+        {
+          "tag": "Background",
+          "category": "Titles"
+        },
+        {
+          "tag": "Introduction information",
+          "category": "Introduction"
+        },
+        {
+          "tag": "The Impact Of Quitting",
+          "category": "Digital Detox"
+        },
+        {
+          "tag": "Instant Brain Chemistry",
+          "category": "Neuroscience"
+        },
+        {
+          "tag": "Dopamine And Reward Pathways",
+          "category": "Neuroscience"
+        },
+        {
+          "tag": "Twelve Hours Without Phone",
+          "category": "Phsychological Affects Of Phones"
+        },
+        {
+          "tag": "FOMO And Brain Hijaking",
+          "category": "Phsychological Affects Of Phones"
+        },
+        {
+          "tag": "Day Three And Recconection",
+          "category": "Social Connection"
+        },
+        {
+          "tag": "Improved Focus After Five Days",
+          "category": "Cognitive Benefits"
+        },
+        {
+          "tag": "Cognitive Gains And Sleep",
+          "category": "Cognitive Benefits"
+        },
+        {
+          "tag": "Two Weeks Of Detoxification",
+          "category": "Digital Detox"
+        },
+        {
+          "tag": "Using Apps To Break Habits",
+          "category": "Habit Management"
+        }
+      ]
     },
     "created_at": "2026-10-15T00:04:46.400Z",
-    "updated_at": "2026-10-15T00:04:46.400Z",
+    "updated_at": "2026-10-15T00:05:20.711Z",
     "generate_pages_site": true
   },
   "annotations": {},
