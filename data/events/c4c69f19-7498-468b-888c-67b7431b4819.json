@@ -12,6 +12,19 @@
   "label": "How TikTok's Algorithm Figures You Out",
   "created_at": "2026-10-15T00:11:37.200Z",
   "created_by": "BiancaR132",
-  "updated_at": "2026-10-15T00:11:37.200Z",
-  "updated_by": "BiancaR132"
+  "updated_at": "2026-10-19T03:01:15.028Z",
+  "updated_by": "sanjeon04",
+  "av_file_order": [
+    "98682845-6c04-4858-b3c1-934ad7cbfbe0"
+  ],
+  "description": [
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "The Wall Street Journal's investigative film explores the workings of TikTok's recommendation system and how micro-behaviors including screen hovering and watch time quickly produce hyper-personalized content loops. This film functions as a high-velocity, high-stimulus media case study for our Memory, Information Overload, and Digital Amnesia curriculum. The timestamped comments assess how the working memory is overloaded and shallow cognitive processing is induced by short average shot lengths, frequent context switches, and continuous visual/auditory inputs."
+        }
+      ]
+    }
+  ]
 }
