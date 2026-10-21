@@ -1,0 +1,91 @@
+{
+  "content": [
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "Uncapher, M. R., K. Thieu, M., & Wagner, A. D. (2016). Media multitasking and memory: Differences in working memory and long-term memory. Psychonomic Bulletin & Review, 23(2), 483–490. https://doi.org/10.3758/s13423-015-0907-3"
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "Wei, M., Liu, J., Wang, H., Li, Q., & Dong, G.-H. (2026). Fragmented learning from short videos modulates neural activity and connectivity during memory retrieval. NPJ Science of Learning, 11(1), Article 15. https://doi.org/10.1038/s41539-025-00399-y"
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "Gong, C., & Yang, Y. (2024). Google effects on memory: a meta-analytical review of the media effects of intensive Internet search behavior. Frontiers in Public Health, 12, 1332030. https://doi.org/10.3389/fpubh.2024.1332030"
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "\nFirth, J., Torous, J., Stubbs, B., Firth, J. A., Steiner, G. Z., Smith, L., Alvarez-Jimenez, M., Gleeson, J., Vancampfort, D., Armitage, C. J., & Sarris, J. (2019). The “online brain”: How the Internet may be changing our cognition. World Psychiatry, 18(2), 119–129. "
+        },
+        {
+          "type": "link",
+          "url": "https://doi.org/10.1002/wps.20617",
+          "children": [
+            {
+              "text": "https://doi.org/10.1002/wps.20617\n"
+            }
+          ]
+        },
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "Barton, N., & Smyth, M. (2025). Context-switching in short-form videos: What is the impact on prospective memory? Memory (Hove), 33(7), 788–801. https://doi.org/10.1080/09658211.2025.2521076"
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "\n"
+        }
+      ]
+    }
+  ],
+  "title": "Additional Reading",
+  "parent": "40927d69-2967-49fe-b45c-30c9d1bb0707",
+  "autogenerate": {
+    "enabled": false,
+    "type": "custom"
+  },
+  "slug": "additional-reading",
+  "created_at": "2026-10-21T04:38:47.605Z",
+  "created_by": "sanjeon04",
+  "updated_at": "2026-10-21T04:38:47.605Z",
+  "updated_by": "sanjeon04"
+}
